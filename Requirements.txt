@@ -1,0 +1,5 @@
+python-dotenv
+google-generativeai
+flask
+pandas
+pdfplumber
